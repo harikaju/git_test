@@ -1,0 +1,1 @@
+This is Harikaju's first git project!
